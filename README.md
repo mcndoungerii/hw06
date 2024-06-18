@@ -47,7 +47,7 @@ Ensure you have Python 3.x installed. You'll also need `pip` to install the requ
 1. Clone the repository:
    ```bash
    git clone  https://github.com/mcndoungerii/hw06.git
-   cd clustering-with-scikit-learn-python
+   cd hw06
    ```
 
 2. Install the required Python packages:
